@@ -1,0 +1,7 @@
+# List of retail-sector website URLs to audit (one per line)
+https://www.apple.com
+https://www.zara.com
+https://www.sephora.com
+https://www.ikea.com
+https://www.nike.com
+https://www.etsy.com

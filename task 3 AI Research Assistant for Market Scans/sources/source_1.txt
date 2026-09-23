@@ -1,0 +1,19 @@
+TITLE: AI Adoption in SMEs and Its Economic Impact on Pakistan's Development
+PUBLISHER: ResearchGate (academic paper)
+DATE: 2025 (approx.)
+URL: https://www.researchgate.net/publication/395959783
+---
+This academic study surveyed 368 small and medium enterprises (SMEs) across
+multiple industries in Pakistan to examine AI adoption patterns, investment
+levels, perceived benefits, and barriers. The research found that nearly
+two-thirds of surveyed SMEs have already adopted some form of AI, with the
+heaviest usage concentrated in marketing, sales, and customer service
+functions. Adoption in HR and product development remains comparatively
+limited. The primary motivations driving adoption were efficiency gains,
+cost reduction, and improved decision-making. However, the study identified
+persistent barriers: high implementation costs, shortages of skilled staff,
+limited awareness of available tools, and general resistance to change
+within organizations. The authors argue that AI adoption in SMEs carries
+macroeconomic significance for Pakistan, since SMEs are a major driver of
+the country's economic activity, and that broader AI integration could
+meaningfully boost national productivity if these barriers are addressed.
