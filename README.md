@@ -27,7 +27,3 @@ Audits authorized Retail-sector websites and scores how professional and busines
 🛠️ How: Python + BeautifulSoup scrapes each site for facts (contact form, CTAs, social links, SEO meta tags, alt-text coverage); an LLM turns those raw facts into a 0-100 score, missing-feature list, and prioritized recommendations.
 📊 Result: Audited 5-8 authorized Retail sites; report clearly separates detected facts (from code) from AI judgment (from the LLM); handles blocked/timeout sites gracefully instead of crashing.
 📁 Files: website_auditor.py, audit_report.md, README.md
-
-	Task 1	                       Task 2	                                           Task 3 	                         Task 4
-Technique   	TF-IDF + Naive Bayes	TF-IDF + cosine similarity	         LLM API + structured prompting        Web scraping + LLM scoring
-Output	      Trained classifier	Working auto-reply tool + real leads	 Multi-source synthesized report       Website audit report with scores
